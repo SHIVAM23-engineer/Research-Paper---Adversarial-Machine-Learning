@@ -1,0 +1,8 @@
+Total Images: 3187
+Binary Threshold: 0.5
+Activation Fn: tanh
+Technique: : adaptive_hist
+
+Clean Accuracy: 97.49%
+Patch Success Rate: 99.91%
+Inpainting Accuracy: 64.98%

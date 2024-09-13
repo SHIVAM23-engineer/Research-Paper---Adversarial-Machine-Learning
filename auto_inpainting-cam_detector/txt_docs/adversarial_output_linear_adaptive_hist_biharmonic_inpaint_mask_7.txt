@@ -1,0 +1,8 @@
+Total Images: 3187
+Binary Threshold: 0.7
+Activation Fn: linear
+Technique: : adaptive_hist_biharmonic_inpaint
+
+Clean Accuracy: 97.49%
+Patch Success Rate: 99.91%
+Inpainting Accuracy: 68.47%

@@ -1,0 +1,8 @@
+Total Images: 3187
+Binary Threshold: 0.5
+Activation Fn: relu
+Technique: base
+
+Clean accuracy: 97.49%
+Patch success accuracy: 99.91%
+Inpainting Accuracy: 71.57%
